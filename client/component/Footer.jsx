@@ -115,7 +115,7 @@ export default function App() {
                 </li>
                 <li>
                   <a href='#!' className='text-white'>
-                    0494-102030
+                    0494-802030
                   </a>
                 </li>
                 <li>
