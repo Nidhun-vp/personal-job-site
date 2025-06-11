@@ -315,7 +315,7 @@ export default function App() {
                 className="btn btn-outline-secondary px-4"
                 onClick={() => setShowForm(false)}
               >
-                Cancel23
+                Cancel
               </button>
               <button
                 type="submit"
