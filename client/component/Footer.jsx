@@ -14,27 +14,27 @@ export default function App() {
     <MDBFooter id="contact" className='text-center' color='white' bgColor='secondary'>
       <MDBContainer className='p-4'>
         <section className='mb-4'>
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='facebook-f' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='fa-brands fa-x-twitter' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='google' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#'' role='button'>
             <MDBIcon fab icon='instagram' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='linkedin-in' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://nidhun-vp.vercel.app/' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='github' />
           </MDBBtn>
         </section>
@@ -43,7 +43,7 @@ export default function App() {
 
         <section className='mb-4'>
           <p>
-            Connecting talent with opportunity, one job at a time.Your future begins here — explore careers that match your passion.Built with ❤️ using the MERN Stack.
+            Connecting talent with opportunity, one job at a time.Your future begins here — explore careers that match your passion.Built with love using the MERN Stack.
             
           </p>
         </section>
