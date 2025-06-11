@@ -164,7 +164,7 @@ export default function App() {
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         © 2025 Copyright:
         <a className='text-white' href='https://nidhun-vp.vercel.app/'>
-          Find my  Dream Job
+          Find your  Dream Job
         </a>
       </div>
     </MDBFooter>
