@@ -26,7 +26,7 @@ export default function App() {
             <MDBIcon fab icon='google' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='#'' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='#' role='button'>
             <MDBIcon fab icon='instagram' />
           </MDBBtn>
 
